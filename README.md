@@ -8,7 +8,7 @@ Complete the squares function that returns an integer representing the number of
 
 ## Examples:
 
-`squares(3, 9) ➞ 21`
+`squares(3, 9) ➞ 2`
   
 `squares(17, 24) ➞ 0`
 
