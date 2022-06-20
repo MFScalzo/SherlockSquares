@@ -17,3 +17,10 @@ Complete the squares function that returns an integer representing the number of
 ## Notes:
 
 Your solution must solve each problem in 1 second or less.
+
+
+## Usage:
+
+Navigate to repo directory, run squares.py.
+
+    python squares.py
